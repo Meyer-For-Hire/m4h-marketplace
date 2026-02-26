@@ -1,0 +1,22 @@
+{
+  "name": "m4h-marketplace",
+  "owner": {
+    "name": "Meyer For Hire"
+  },
+  "metadata": {
+    "description": "AI agents and skills for code quality, refactoring, and engineering excellence",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "agents4hire",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Meyer-For-Hire/agents4hire.git"
+      },
+      "description": "Specialized AI agents for code quality, refactoring, and engineering excellence. Includes the well-factored-code-auditor skill.",
+      "version": "0.1.0",
+      "strict": true
+    }
+  ]
+}
