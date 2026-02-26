@@ -1,4 +1,4 @@
-# Meyer For Hire Marketplace
+# Meyer For Hire Consulting Marketplace
 
 AI agents and skills for code quality, refactoring, and engineering excellence.
 
