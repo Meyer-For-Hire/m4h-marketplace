@@ -15,7 +15,7 @@
         "url": "https://github.com/Meyer-For-Hire/agents4hire.git"
       },
       "description": "Specialized AI agents for code quality, refactoring, and engineering excellence. Includes the well-factored-code-auditor skill.",
-      "version": "0.1.0",
+      "version": "0.2.1",
       "strict": true
     },
     {
@@ -24,8 +24,8 @@
         "source": "url",
         "url": "https://github.com/Meyer-For-Hire/skills4hire.git"
       },
-      "description": "Skills for capturing and recalling reusable developer knowledge across projects. Includes the /til global-memory skill.",
-      "version": "0.1.0",
+      "description": "Skills for capturing and recalling reusable developer knowledge across projects.",
+      "version": "0.3.0",
       "strict": true
     }
   ]
