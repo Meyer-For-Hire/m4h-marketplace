@@ -24,7 +24,7 @@
         "source": "url",
         "url": "https://github.com/Meyer-For-Hire/skills4hire.git"
       },
-      "description": "Skills for capturing and recalling reusable developer knowledge across projects, the M4H product-development workflow (grill-the-pm through map-product-acceptance-to-issues), and the code-skeptic reviewer. Includes the /pqa-mode skill.",
+      "description": "Skills for capturing and recalling reusable developer knowledge across projects.",
       "version": "0.3.0",
       "strict": true
     }
